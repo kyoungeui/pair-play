@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106435358280",
+    "project_id": "pairplay-e91f9",
+    "storage_bucket": "pairplay-e91f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106435358280:android:21cc46526b09e56754b27d",
+        "android_client_info": {
+          "package_name": "com.pairplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkhd7Hyig-P62cUTQlj1s_ZsSjPU3h5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
